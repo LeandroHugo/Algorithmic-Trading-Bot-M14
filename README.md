@@ -40,4 +40,4 @@ In this section, we use the original parameters provided by the starter code and
 In the final phase, we provide a summary evaluation report at the end of the `README.md` file. This report will state our final conclusions and by the PNG images that we created in the previous steps. This comprehensive report should serve as a clear reflection of our process, our findings, and the steps we took in enhancing our trading algorithm 🚀.
 
 Good luck on your journey to improve and adapt existing algorithmic trading systems with the power of Machine Learning! Remember, the essence of this challenge is not just about creating a more profitable model, but learning, experimenting, and having fun along the way! 💡💰🚀
-![Alt text](Resources/MLTB2.png)
+![Alt text](Resources/MLTB2.png) .
