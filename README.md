@@ -1,5 +1,5 @@
 # 📈 Machine Learning Trading Bot 🤖
-
+![Alt text](Resources/MLTB1.png)
 In this challenge, we'll put on the hat 🎩 of a financial advisor at one of the top five financial advisory firms in the world. Our firm is in a fierce competition with other major firms, managing and auto-trading assets in a highly dynamic environment. We've reaped hefty profits in recent years, thanks to computer algorithms that trade faster than human traders. 
 
 The transaction speed brought an early competitive advantage to our firm. But these systems still need human programming, which hampers their adaptability to new data. Hence, we plan to refine our existing algorithmic trading systems and preserve our competitive market advantage by infusing them with machine learning algorithms that can adapt to new data 📊.
@@ -37,4 +37,7 @@ In this section, we use the original parameters provided by the starter code and
 
 ### 📝 Create an Evaluation Report 📊
 
-In the final phase, we provide a summary evaluation report at the end of the `README.md` file. This report will state our final conclusions and
+In the final phase, we provide a summary evaluation report at the end of the `README.md` file. This report will state our final conclusions and by the PNG images that we created in the previous steps. This comprehensive report should serve as a clear reflection of our process, our findings, and the steps we took in enhancing our trading algorithm 🚀.
+
+Good luck on your journey to improve and adapt existing algorithmic trading systems with the power of Machine Learning! Remember, the essence of this challenge is not just about creating a more profitable model, but learning, experimenting, and having fun along the way! 💡💰🚀
+![Alt text](Resources/MLTB2.png)
