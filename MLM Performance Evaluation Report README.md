@@ -35,13 +35,15 @@ The baseline trading algorithm was then tuned by adjusting the size of the train
 Based on the metrics provided, the Support Vector Classifier (SVC) model performed better in terms of accuracy and F1-score for the 1.0 class compared to the K-Nearest Neighbors (KNN) model. However, the SVC model performed significantly worse for the -1.0 class in terms of recall and F1-score. The KNN model had a more balanced performance across the two classes, but with a lower overall accuracy. Therefore, whether the SVC model is considered better or worse than the KNN model would depend on the specific requirements of the task.
 </div>
 
+![Alt text](Resources/ScoresSVC.png)
+
 ![Alt text](Resources/CARVSCSR.png)
 
 ## **Evaluation of a New Machine Learning Classifier**
-A new machine learning classifier (e.g., AdaBoost, DecisionTreeClassifier, or LogisticRegression) was applied to the original parameters provided by the starter code. The performance of this new model was compared with the baseline model and the tuned trading algorithm.
-
+A new machine learning classifier (e.g., KNeighborsClassifier, AdaBoost, DecisionTreeClassifier, or LogisticRegression) was applied to the original parameters provided by the starter code. The performance of this new model was compared with the baseline model and the tuned trading algorithm.
+![Alt text](Resources/ScoresKNN.png)
 ![Alt text](Resources/ARVSSR.png)
+**Question: Did this new model perform better or worse than your tuned trading algorithm?**
 
 ## **Conclusion**
 In summary, the SVC model performs better in terms of accuracy and F1-score for the 1.0 class, but it performs significantly worse for the -1.0 class in terms of recall and F1-score. The KNN model has a more balanced performance across the two classes, but with a lower overall accuracy. The choice between these two models would depend on the specific requirements of your task. If you care more about overall accuracy and performance on the 1.0 class, the SVC model might be better. But if you care about balanced performance across both classes, the KNN model might be more suitable.
-
